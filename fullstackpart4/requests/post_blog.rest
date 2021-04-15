@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs/
+Content-Type: application/json
+
+{
+    "title": "Hello Worrll",
+    "author": "Dani Haapaniem3i",
+    "url": "www.google.fi",
+    "likes": "5",
+    "userId": "5e4bed0637dc7e055801c043"
+}

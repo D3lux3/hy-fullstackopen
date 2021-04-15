@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/5e497f620afdbd39b89b33cf
+Content-Type: application/json
+
+{
+    "title": "Hello World",
+    "author": "Dani Haapaniem3i",
+    "url": "www.google.fi",
+    "likes": "10"
+}
